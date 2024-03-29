@@ -1,4 +1,9 @@
 #Intermediate value theorem
+'''
+If a function f(x) is continuous in th interval a,b and f(a) & f(b) are of opposite
+signs then equation f(x)=0 has atleast one root between x=a & x=b
+'''
+
 def function(x): 
     return 2*x**5 + 3*x**3 + 7*x - 13 
  
