@@ -23,11 +23,11 @@ else:
         
 '''
 Output:
-Enter 1st the number:12
+Enter 1st the number:-12
 
  Enter 2nd the number:12
-The value of fa:  502919.0
+The value of fa:  -502945.0
 The value of fb:  502919.0
 
- doesn't exist a root in the given interval in function
+ Exist a root in the give interval in function
 '''
